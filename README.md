@@ -5,7 +5,7 @@ Home: https://yuzie007.github.io/mpltern
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Ternary plots as projections of Matplotlib
 
