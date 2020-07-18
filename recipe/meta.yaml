@@ -1,6 +1,6 @@
 {% set name = "mpltern" %}
-{% set version = "0.3.0" %}
-{% set sha256 = "157e20bf386dcc72b938703442a851fd265cc89192e044f2815ce28892d40e93" %}
+{% set version = "0.3.1" %}
+{% set sha256 = "66e5be9ead0030e30fcd2a660c95a1363260ec841e3ecb7d69ce12b5be340ff0" %}
 
 package:
   name: {{ name|lower }}
@@ -12,8 +12,8 @@ source:
 
 build:
   noarch: python
-  number: 1
-  script: "{{ PYTHON }} -m pip install . -vv"
+  number: 0
+  script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
   host:
@@ -32,7 +32,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'Ternary plots as projections of Matplotlib'
+  summary: Ternary plots as projections of Matplotlib
 
   description: |
     Mpltern is a Python plotting library based on Matplotlib specifically designed for ternary plots. Mpltern is implemented as a new projection for Matplotlib, with introducing e.g. new Transform classes for ternary plots.
