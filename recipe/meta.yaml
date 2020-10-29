@@ -1,6 +1,6 @@
 {% set name = "mpltern" %}
-{% set version = "0.3.1" %}
-{% set sha256 = "66e5be9ead0030e30fcd2a660c95a1363260ec841e3ecb7d69ce12b5be340ff0" %}
+{% set version = "0.3.2" %}
+{% set sha256 = "1f5e363255905b926b1e4edbf165e694461233657bd0c0f9838f666262b7ce13" %}
 
 package:
   name: {{ name|lower }}

@@ -5,9 +5,13 @@ Home: https://yuzie007.github.io/mpltern
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mpltern-feedstock/blob/master/LICENSE.txt)
 
 Summary: Ternary plots as projections of Matplotlib
+
+Development: https://github.com/yuzie007/mpltern
+
+Documentation: https://yuzie007.github.io/mpltern
 
 Mpltern is a Python plotting library based on Matplotlib specifically designed for ternary plots. Mpltern is implemented as a new projection for Matplotlib, with introducing e.g. new Transform classes for ternary plots.
 
