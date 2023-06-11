@@ -1,11 +1,11 @@
-About mpltern
-=============
+About mpltern-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mpltern-feedstock/blob/main/LICENSE.txt)
 
 Home: https://yuzie007.github.io/mpltern
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mpltern-feedstock/blob/main/LICENSE.txt)
 
 Summary: Ternary plots as projections of Matplotlib
 
